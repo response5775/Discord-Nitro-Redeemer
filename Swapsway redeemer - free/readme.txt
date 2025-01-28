@@ -30,7 +30,7 @@
 -> Yes 100% secured and no malware
 
 - Update when?
--> I will push a update soon on September | prolly in 10th September
+-> no ETA
 
 - What will be new in next update
 -> I havent planned it yet. But you will get to know many new features ( you can also suggest me in discord )
