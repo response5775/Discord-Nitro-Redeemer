@@ -24,7 +24,7 @@
 -> LTC: LbWMvQ6dVeMchnHZZsL6HNrFJ1mEWpsPgj | BTC: bc1q5tvx7eny24juy8mmj87wrlx7fh6p57qus39k80
 
 - What should i do when i encounter captcha?
--> This mostly happens when your token is flagged | if your token is fine then try using a proxy with 0 fraud score and try redeeming again | even after using proxy if you encounter captcha with no-captcha tokens kindly contact me i might push a update
+-> This mostly happens when your token is flagged
 
 - Is it safe?
 -> Yes 100% secured and no malware
