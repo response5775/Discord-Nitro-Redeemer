@@ -23,11 +23,5 @@
 - What should i do when i encounter captcha?
 -> This mostly happens when your token is flagged
 
-- Is it safe?
--> Yes 100% secured and no malware
-
 - Update when?
 -> no ETA
-
-- What will be new in next update
--> I havent planned it yet. But you will get to know many new features ( you can also suggest me in discord )
