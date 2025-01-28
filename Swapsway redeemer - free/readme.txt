@@ -5,9 +5,6 @@
 - How do i put tokens,vcc,promos? and where? 
 -> You can put them in Input folder in their specified files. 
 
-- How do i get my Redeemed tokens? 
--> Open output folder and open success.txt file you will get all your redeemed tokens 
-
 - How do i configure the redeemer?
 -> Open configuration.yaml and customize the redeemer as your need 
 
