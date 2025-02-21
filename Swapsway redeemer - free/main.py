@@ -12,16 +12,16 @@ from SourceCode.main.tc import *
 from SourceCode.main.redeem import *
 from SourceCode.main.cookie_scraper import *
 import time
-import json
+import json,os
 
 with open("database/fail_db.json", "r", encoding="utf-8") as f:
     db_f = json.load(f)
 with open("database/success_database.json", "r", encoding="utf-8") as f:
     db_s = json.load(f)
 start_t = time.time()
-CLS()
+os.system("cls")
 install_requirements()
-CLS()
+os.system("cls")
 with open("Input/tokens.txt","r") as f:
     tokensz = f.read().splitlines()
 tokens_len = int(len(tokensz))
